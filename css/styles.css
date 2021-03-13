@@ -438,7 +438,7 @@ header {
 /*project*/
 
 .project {
-    height: calc(130vh - 100px);
+    height: calc(70vh - 100px);
     margin-bottom: 250px;
 }
 
@@ -559,7 +559,7 @@ header {
 
 @media(max-width:1200px) {
     .project {
-        height: 100vh;
+        height: auto;
     }
     .project-container {
         margin-left: 0;
