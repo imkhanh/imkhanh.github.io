@@ -365,7 +365,6 @@ header {
     margin-left: 50px;
     width: 70%;
     display: flex;
-    justify-content: space-between;
 }
 
 .info-img img {
@@ -466,6 +465,7 @@ header {
     transition: opacity 0.4s;
     font-family: "Bigilla";
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .menu__item-link::before {

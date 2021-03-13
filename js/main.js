@@ -11,7 +11,8 @@ timeline.from(".loader", 1.6, {
   y: 80,
   ease: Expo.easeInOut,
   delay: 1,
-  transformOrigin:"50% 100%"
+  transformOrigin:"50% 100%",
+  opacity:0,
 });
 
 timeline.to(".loader", 1.6, {
