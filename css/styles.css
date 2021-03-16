@@ -438,7 +438,7 @@ header {
 /*project*/
 
 .project {
-    height: calc(70vh - 100px);
+    height: calc(90vh - 100px);
     margin-bottom: 250px;
 }
 

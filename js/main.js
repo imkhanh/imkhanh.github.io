@@ -34,13 +34,13 @@ timeline.staggerFrom(".line",2,{
   opacity:0,
   ease:Expo.easeInOut,
 },0.7);
-timeline.to('.header-box',2.4,{
+timeline.to('.header-box',1.6,{
   x:"100%",
-  delay:-4.4,  
+  delay:-5,  
   ease:Expo.easeInOut
 });
 timeline.from(".header-imgBg",1.6,{
-  delay:-3,
+  delay:-4,
   scale:1.6,
   ease:Power2.easeInOut
 })
